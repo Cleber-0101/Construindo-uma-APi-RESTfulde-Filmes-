@@ -30,3 +30,11 @@ C:\FilmesAPI\FilmesAPI\obj\Debug\net8.0\refint\FilmesAPI.dll
 C:\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.pdb
 C:\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.genruntimeconfig.cache
 C:\FilmesAPI\FilmesAPI\obj\Debug\net8.0\ref\FilmesAPI.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Humanizer.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\MySqlConnector.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.sourcelink.json
