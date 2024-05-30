@@ -3,8 +3,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace FilmesAPI.Data;
 
-
-//classe contexto do Banco de dado
 public class FilmeContext : DbContext
 {
     public FilmeContext(DbContextOptions<FilmeContext> opts)

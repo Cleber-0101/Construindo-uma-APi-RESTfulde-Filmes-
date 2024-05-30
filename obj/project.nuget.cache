@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6eFCwDfN6dBvpJnRltVDMqiUE9Ax8r2DaaYMPvJ0s7zbfu3v4pAYkIkM1YyOVacpH8rPKJVUOgc31A+0TlgBag==",
+  "dgSpecHash": "GOppokYsl0KCwPcCyfXZCxJSW6W3jM9wscT7CI9p1Ku5jYk7+WeIluc/3VKHWuBjRtJSfl/tSsDUrVgfw+up5Q==",
   "success": true,
   "projectFilePath": "C:\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\clebe\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\clebe\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\clebe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\clebe\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\clebe\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",

@@ -17,6 +17,27 @@
   },
   {
     "ContainingType": "FilmesAPI.Controllers.FilmeController",
+    "Method": "AtualizaFilme",
+    "RelativePath": "api/Filme/atualiza/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "filme",
+        "Type": "FilmesAPI.Models.Filme",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FilmesAPI.Controllers.FilmeController",
     "Method": "RecuperarFilme",
     "RelativePath": "api/Filme/busca",
     "HttpMethod": "GET",

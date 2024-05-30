@@ -38,3 +38,5 @@ C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational
 C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\MySqlConnector.dll
 C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\FilmesAPI\FilmesAPI\obj\Debug\net8.0\FilmesAPI.sourcelink.json
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\FilmesAPI\FilmesAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
